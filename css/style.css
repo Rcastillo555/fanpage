@@ -17,3 +17,24 @@ a {
     width: 30px;
     margin: 15px;
 }
+.heading{
+    display:flex;
+    justify-content:center;
+}
+.navbar{
+    display:flex;
+    justify-content:space-between;
+}
+.footer{
+    display:flex;
+    justify-content:space-around;
+}
+
+.glarry-page{
+    display:flex;
+    justify-content:space-between;
+}
+.page{
+    display:flex;
+    justify-content:center;
+}
